@@ -14,13 +14,18 @@ y <- c(2, 3, 1, 4, 0, 2, 3, 1, 2, 5) # Trieste
 # 2a) LRT
 lik_pois <- function(lam, n, sumy) log(lam) * sumy - n*lam
 
+ll_0 <- lik_pois(theta0, length(y), sum(y))
+ll_0
+ll_1 <- lik_pois(mean(y), length(y), sum(y))
+ll_1
+
+W_0 <- 2*(ll_1 - ll_0)
+
+pchisq(W_0, 1, lower.tail = FALSE)
 
 # 2b) Wald
 
-
 # 2c) Score
-
-
 
 
 ## one sided:
