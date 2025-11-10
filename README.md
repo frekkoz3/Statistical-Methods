@@ -6,11 +6,14 @@ This repo contains the contents of the academic course **"344SM - STATISTICAL ME
 
 ## Structure
 
-There are three main folders:
+There are six main folders:
 
 1. **Laboratories** containing the content of the laboratories
 2. **Lectures** containing the content of the lectures
 3. **Practices** containing some practical examples done during lectures
+4. **Books** containing the pdf of some books
+5. **Homeworks** containing the text of the homeworks
+6. **Self Assessment Tests** containign the self assesment tests assigned before lectures
 
 ---
 
