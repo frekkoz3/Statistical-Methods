@@ -12,7 +12,7 @@ There are six main folders:
 2. **Lectures** containing the content of the lectures
 3. **Practices** containing some practical examples done during lectures
 4. **Homeworks** containing the text of the homeworks
-5. **Resources** containing some books, simulations etc
+5. **Resources** containing some books, simulations, self assesments tests, cheatsheets
 
 ---
 
